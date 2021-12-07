@@ -50,3 +50,161 @@ margin-right:10%;
 			 left: 0%;
 
  }
+.backimg:hover .imgBx {
+
+			 top: 0; left: -100%;
+
+ } 
+
+.backimg .imgBx img {
+
+			  width: 100%;
+
+			
+
+}
+
+.backimg .details {
+
+			 background: #262626;			
+
+			 top: 0;
+
+			 left: 100%;
+
+			 padding: 10px 15px; 
+
+} 
+
+.backimg:hover .details {
+
+			 top: 0; left: 0%;
+
+} 
+
+.backimg .details h2 {
+
+			 color: #fff;
+
+			 text-align: center;
+
+			 margin: 0;
+
+			 padding: 0 0 10px;			
+
+			 border-bottom: 2px solid #fff;
+
+			 
+
+ } 
+
+.backimg .details p {
+
+			 margin: 20px 0 0;
+
+			 color: #fff;
+
+			font-size:18px;
+
+ }
+
+/* Clearfix (clear floats) */
+
+.row::after {
+
+  content: "";
+
+  clear: both;
+
+  display: table;
+
+}
+
+.jb{
+
+top:1400px ;
+
+ left:5%;
+
+}
+
+.mark{
+
+top: 1400px;
+
+ left:28%;
+
+}
+
+.jack{
+
+top: 1400px;
+
+ left:51%;
+
+}
+
+.jin{
+
+top: 1400px;
+
+ left:74%;
+
+}
+
+.yongjae{
+
+top:1800px;
+
+ left:5%;
+
+}
+
+.bb{
+
+top: 1800px;
+
+ left:28%;
+
+}
+
+.yg{
+
+top: 1800px;
+
+ left:51%;
+
+}
+
+.jbm{
+
+top:2550px ;
+
+ left:5%;
+
+}
+
+.markt{
+
+top: 2550px;
+
+ left:28%;
+
+}
+
+.jacks{
+
+top: 2550px;
+
+ left:51%;
+
+}
+
+.jiny{
+
+top: 2550px;
+
+ left:74%;
+
+}
+
