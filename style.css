@@ -1,0 +1,52 @@
+*{
+
+			font-family:monospace;			margin:0; 
+
+			padding:0; 
+
+			box-sizing:border-box;
+
+}
+.backimg {
+
+			 position: absolute;
+
+			 margin-left:10%;
+
+margin-right:10%;
+
+			 transform: translate(-50%,-50%);
+
+			 width: 210px;
+
+			 height: 310px;
+
+			 background: #262626;
+
+			 overflow: hidden; 
+
+} 
+
+.backimg .imgBx, 
+
+.backimg .details {
+
+			 width: 100%;
+
+			 height: 100%;
+
+			 position: absolute;
+
+			 box-sizing: border-box;
+
+			 transition: .5s;
+
+ } 
+
+.backimg .imgBx {
+
+			 top: 0;
+
+			 left: 0%;
+
+ }
