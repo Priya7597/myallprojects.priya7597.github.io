@@ -26,6 +26,13 @@ margin-right:10%;
 			 overflow: hidden; 
 
 } 
+.ygbb{
+	 width: 350px;
+
+			 height: 250px;
+
+}
+
 
 .backimg .imgBx, 
 
@@ -156,20 +163,13 @@ top:1800px;
 
  left:5%;
 	
-			 width: 350px;
-
-			 height: 250px;
-
-}
+			
 
 .bb{
 
 top: 1800px;
 
  left:28%;
-	 width: 350px;
-
-			 height: 250px;
 
 
 }
@@ -179,9 +179,7 @@ top: 1800px;
 top: 1800px;
 
  left:51%;
-	 width: 350px;
-
-			 height: 250px;
+	
 
 
 }
